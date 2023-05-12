@@ -8,16 +8,18 @@ import lombok.Data;
 
 @Entity
 @Data
+
 public class VentaDetalle {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
-    private Double catidad;
+    private Double cantidad;
     private Double precio;
     private Integer productoID;
 
     public VentaDetalle(){
-    this.catidad= (double) 0;
-    this.precio = (double) 0;
+        this.cantidad = (double) 0;
+        this.precio = (double) 0;
     }
+
 }

@@ -1,10 +1,10 @@
 package com.example.venta.entity;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import jakarta.persistence.*;
 import lombok.Data;
+
+import java.util.List;
 
 @Entity
 @Data
@@ -17,4 +17,8 @@ public class Venta {
     private String numero;
     private String descripcion;
     private String clienteId;
+    @JsonIgnoreProperties({"hibernateLazyInitializer","handler"})
+    @OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL)
+    @JoinColumn(name = "venta_id")
+    private List<VentaDetalle> detalle;
 }
