@@ -6,9 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="74a63929-b923-4337-9415-4490fb1a0d6c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../catalogo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catalogo/src/main/java/com/example/catalogo/CatalogoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogo/src/main/java/com/example/catalogo/CatalogoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catalogo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogo/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cliente/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cliente/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cliente/src/main/java/com/example/cliente/ClienteApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cliente/src/main/java/com/example/cliente/ClienteApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cliente/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../cliente/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalogo-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/catalogo-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cliente-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cliente-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venta-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venta-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../venta/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../venta/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venta/src/main/java/com/example/venta/VentaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../venta/src/main/java/com/example/venta/VentaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venta/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../venta/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +32,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Aplicaciones Distribuidas/MICRO/config-data",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Aplicaciones Distribuidas/MICRO/config-data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683860664332</updated>
       <workItem from="1683860665361" duration="618000" />
+      <workItem from="1684016236332" duration="2777000" />
     </task>
     <servers />
   </component>
