@@ -25,7 +25,6 @@ public class ProductoController {
     }
 
     @GetMapping("/{id}")
-
     public ResponseEntity<Producto> listById(@PathVariable(required = true) Integer id) {
         return ResponseEntity.ok().body(productoService.listarPorId(id).get());
     }
