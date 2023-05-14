@@ -9,4 +9,7 @@ public class Cliente {
     private String nombres;
     private String apellidoPaterno;
     private String apellidoMaterno;
+    private String direccion;
+    private String telefono;
+    private String correo;
 }
