@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74a63929-b923-4337-9415-4490fb1a0d6c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../catalogo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../catalogo/src/main/java/com/example/catalogo/CatalogoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogo/src/main/java/com/example/catalogo/CatalogoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../catalogo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogo/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cliente/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cliente/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cliente/src/main/java/com/example/cliente/ClienteApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cliente/src/main/java/com/example/cliente/ClienteApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cliente/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../cliente/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalogo-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/catalogo-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cliente-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cliente-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venta-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venta-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venta/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../venta/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../venta/src/main/java/com/example/venta/VentaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../venta/src/main/java/com/example/venta/VentaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venta/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../venta/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +35,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Aplicaciones Distribuidas\MICRO\config-data" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683860664332</updated>
       <workItem from="1683860665361" duration="618000" />
-      <workItem from="1684016236332" duration="2777000" />
+      <workItem from="1684016236332" duration="5095000" />
     </task>
     <servers />
   </component>
