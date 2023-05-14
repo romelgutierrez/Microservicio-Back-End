@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74a63929-b923-4337-9415-4490fb1a0d6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gateway-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-server/src/main/java/com/example/gatewayserver/GatewayServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-server/src/main/java/com/example/gatewayserver/GatewayServerApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683860664332</updated>
       <workItem from="1683860665361" duration="618000" />
-      <workItem from="1684016236332" duration="6951000" />
+      <workItem from="1684016236332" duration="8281000" />
     </task>
     <servers />
   </component>
