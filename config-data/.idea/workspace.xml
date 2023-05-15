@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74a63929-b923-4337-9415-4490fb1a0d6c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../catalogo/src/main/java/com/example/catalogo/entity/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogo/src/main/java/com/example/catalogo/entity/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cliente/src/main/java/com/example/cliente/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cliente/src/main/java/com/example/cliente/entity/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venta/src/main/java/com/example/venta/dto/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../venta/src/main/java/com/example/venta/dto/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venta/src/main/java/com/example/venta/dto/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../venta/src/main/java/com/example/venta/dto/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../venta/src/main/java/com/example/venta/entity/Venta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../venta/src/main/java/com/example/venta/entity/Venta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catalogo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cliente/src/main/java/com/example/cliente/controller/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cliente/src/main/java/com/example/cliente/controller/ClienteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +22,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Aplicaciones Distribuidas/MICRO/config-data&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Aplicaciones Distribuidas/MICRO/registry-server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Aplicaciones Distribuidas\MICRO\config-data" />
@@ -51,6 +49,7 @@
       <updated>1683860664332</updated>
       <workItem from="1683860665361" duration="618000" />
       <workItem from="1684016236332" duration="12449000" />
+      <workItem from="1684081263948" duration="6484000" />
     </task>
     <servers />
   </component>
