@@ -15,7 +15,7 @@ public class Producto {
     private String marca;
     private String modelo;
     @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "categoria_id")
+    @JoinColumn(name = "producto_id")
     @JsonIgnoreProperties({"hibernateLazyInitializer","handler"})
-    private Categoria categoria;
+    private Producto producto;
 }
