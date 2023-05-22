@@ -1,6 +1,6 @@
 package com.example.catalogo.entity;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
 import jakarta.persistence.*;
 import lombok.Data;
 @Entity
@@ -14,8 +14,4 @@ public class Producto {
     private String precio;
     private String marca;
     private String modelo;
-    @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "producto_id")
-    @JsonIgnoreProperties({"hibernateLazyInitializer","handler"})
-    private Producto producto;
 }

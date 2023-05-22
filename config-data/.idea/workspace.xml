@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74a63929-b923-4337-9415-4490fb1a0d6c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../catalogo/src/main/java/com/example/catalogo/controller/CategoriaController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../catalogo/src/main/java/com/example/catalogo/entity/Categoria.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venta/src/main/java/com/example/venta/feign/CategoriaFeign.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../catalogo/src/main/java/com/example/catalogo/entity/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogo/src/main/java/com/example/catalogo/entity/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../catalogo/src/main/java/com/example/catalogo/repository/CategoriaRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../catalogo/src/main/java/com/example/catalogo/service/CategoriaService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../catalogo/src/main/java/com/example/catalogo/service/impl/CategoriaServiceImpl.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +57,7 @@
       <workItem from="1684180144817" duration="333000" />
       <workItem from="1684716008715" duration="302000" />
       <workItem from="1684716372994" duration="17000" />
-      <workItem from="1684718008413" duration="1534000" />
+      <workItem from="1684718008413" duration="2309000" />
     </task>
     <servers />
   </component>
