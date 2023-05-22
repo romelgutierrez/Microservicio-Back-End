@@ -24,4 +24,8 @@ spring:
           uri: lb://venta-service
           predicates:
             - Path=/venta/**
+        - id: categoria-service
+          uri: lb://categoria-service
+          predicates:
+            - Path=/categoria/**
 

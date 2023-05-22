@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74a63929-b923-4337-9415-4490fb1a0d6c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../catalogo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../catalogo/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cliente/src/main/java/com/example/cliente/controller/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cliente/src/main/java/com/example/cliente/controller/ClienteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../categoria/src/main/java/com/example/categoria/controller/CategoriaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../categoria/src/main/java/com/example/categoria/entity/Categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../categoria/src/main/java/com/example/categoria/repository/CategoriaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../categoria/src/main/java/com/example/categoria/service/CategoriaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../categoria/src/main/java/com/example/categoria/service/impl/CategoriaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categoria-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2Pfusa98NlPqdhCKvN5yXpi15Cb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,7 +33,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Aplicaciones Distribuidas/MICRO/registry-server",
+    "last_opened_file_path": "D:/Aplicaciones Distribuidas/MICRO/config-data",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -37,6 +44,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Aplicaciones Distribuidas\MICRO\config-data" />
+      <recent name="D:\Aplicaciones Distribuidas\MICRO\config-data\.idea" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,6 +58,10 @@
       <workItem from="1683860665361" duration="618000" />
       <workItem from="1684016236332" duration="12449000" />
       <workItem from="1684081263948" duration="6484000" />
+      <workItem from="1684180144817" duration="333000" />
+      <workItem from="1684716008715" duration="302000" />
+      <workItem from="1684716372994" duration="17000" />
+      <workItem from="1684718008413" duration="869000" />
     </task>
     <servers />
   </component>
